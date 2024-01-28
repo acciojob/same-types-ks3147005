@@ -1,7 +1,7 @@
 function isSameType(value1, value2) {
   //your js code here
 	  if (isNaN(value1) && isNaN(value2)) {
-    return true;
+    return true; 
   }
 
   // Check if the type of both values is the same
