@@ -7,7 +7,7 @@ function isSameType(value1, value2) {
   // Check if the type of both values is the same
   return typeof value1 === typeof value2;  
 	isSameType(1, 3); // true
-	isSameType("hey", "hello"); // true 
+	isSameType("hey", "hello"); // true
 	isSameType(NaN, NaN); // true
 	isSameType("3", 3); // false
 
