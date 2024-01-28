@@ -12,7 +12,7 @@ isSameType("hey", "hello"); // true
 isSameType(NaN, NaN); // true
 isSameType("3", 3); // false
      
-}
+
            
 // do not change the code below.
 let value1 = prompt("Enter Start of the Range.");
